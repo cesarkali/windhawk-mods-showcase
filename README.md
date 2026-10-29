@@ -19,11 +19,11 @@ An island at the top of the screen like the macOS menu bar and the iPhone's Dyna
 
 ![The island opening from its line, a timer going, the media panel and its mixer](https://i.imgur.com/27R6hST.gif)
 
-| The styles | Notifications |
+| Music on the pill | Notifications |
 |:---:|:---:|
-| ![The island's styles](https://i.imgur.com/Bh0AxUU.gif) | ![A notification in the pill](https://i.imgur.com/CsViw16.gif) |
-| **Control center** | **The dock** |
-| ![The control center](https://i.imgur.com/mIUH1ea.gif) | ![The dock](https://i.imgur.com/dSN342D.gif) |
+| ![The audio visualizer](https://i.imgur.com/av0fTVW.gif) | ![A notification in the pill](https://i.imgur.com/CsViw16.gif) |
+| **The sound mixer** | **The dock** |
+| ![The mixer opening](https://i.imgur.com/mVQao0g.gif) | ![The dock](https://i.imgur.com/dSN342D.gif) |
 
 **[Install on Windhawk →](https://windhawk.net/mods/mac-island-dock)** · [Source code](https://github.com/ramensoftware/windhawk-mods/blob/main/mods/mac-island-dock.wh.cpp)
 
